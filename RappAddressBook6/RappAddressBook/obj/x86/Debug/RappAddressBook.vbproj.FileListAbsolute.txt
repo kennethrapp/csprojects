@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\RappAddressBook\bin\Debug\RappAddressBook.exe
+C:\Users\user\Desktop\RappAddressBook\bin\Debug\RappAddressBook.pdb
+C:\Users\user\Desktop\RappAddressBook\bin\Debug\RappAddressBook.xml
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.frmMain.resources
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.Resources.resources
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.exe
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.xml
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.pdb
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.frmFirstRun.resources
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.frmSearch.resources
+C:\Users\user\Desktop\RappAddressBook\obj\x86\Debug\RappAddressBook.frmDisplyRTF.resources

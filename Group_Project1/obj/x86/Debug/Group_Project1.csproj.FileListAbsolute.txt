@@ -1,0 +1,39 @@
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\bin\Debug\Group_Project1.exe
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\bin\Debug\Group_Project1.pdb
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\Group_Project1.Form1.resources
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\Group_Project1.Properties.Resources.resources
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\Group_Project1.exe
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\Group_Project1.pdb
+c:\users\mellett\documents\visual studio 2010\Projects\Group_Project1\obj\x86\Debug\Group_Project1.Form2.resources
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.exe
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.pdb
+I:\programming\ITSE 1302\gp1\Group_Project1\bin\Debug\Group_Project1.exe
+I:\programming\ITSE 1302\gp1\Group_Project1\bin\Debug\Group_Project1.pdb
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Form1.resources
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Form2.resources
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Properties.Resources.resources
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.exe
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.pdb
+E:\programming\ITSE 1302\gp1\Group_Project1\bin\Debug\Group_Project1.exe
+E:\programming\ITSE 1302\gp1\Group_Project1\bin\Debug\Group_Project1.pdb
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Form1.resources
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Form2.resources
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Properties.Resources.resources
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.exe
+J:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.pdb
+J:\programming\ITSE 1302\gp1\Group_Project1\bin\Debug\Group_Project1.exe
+J:\programming\ITSE 1302\gp1\Group_Project1\bin\Debug\Group_Project1.pdb
+J:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.csprojResolveAssemblyReference.cache
+J:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Form1.resources
+J:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Form2.resources
+J:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.Properties.Resources.resources
+J:\programming\ITSE 1302\gp1\Group_Project1\obj\x86\Debug\Group_Project1.csproj.GenerateResource.Cache

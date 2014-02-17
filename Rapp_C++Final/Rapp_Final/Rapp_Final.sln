@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rapp_Final", "Rapp_Final.vcxproj", "{FBCFB453-6F0B-4F1F-8432-D86E2736F9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCFB453-6F0B-4F1F-8432-D86E2736F9F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FBCFB453-6F0B-4F1F-8432-D86E2736F9F2}.Debug|Win32.Build.0 = Debug|Win32
+		{FBCFB453-6F0B-4F1F-8432-D86E2736F9F2}.Release|Win32.ActiveCfg = Release|Win32
+		{FBCFB453-6F0B-4F1F-8432-D86E2736F9F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
